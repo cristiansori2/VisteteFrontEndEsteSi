@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="689fa56a-6ab9-4882-81f5-06bad555560d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1np3dHI60XmjEyC3N0udp4Dvo73" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.22" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689fa56a-6ab9-4882-81f5-06bad555560d" name="Default Changelist" comment="" />
+      <created>1612073290940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612073290940</updated>
+      <workItem from="1612073291973" duration="904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="246" key="GridCell.Tab.0.bottom" timestamp="1612079434300">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1379" height="246" key="GridCell.Tab.0.bottom/0.25.1920.971@0.25.1920.971" timestamp="1612079434300" />
+    <state width="1379" height="246" key="GridCell.Tab.0.center" timestamp="1612079434299">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1379" height="246" key="GridCell.Tab.0.center/0.25.1920.971@0.25.1920.971" timestamp="1612079434299" />
+    <state width="1379" height="246" key="GridCell.Tab.0.left" timestamp="1612079434299">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1379" height="246" key="GridCell.Tab.0.left/0.25.1920.971@0.25.1920.971" timestamp="1612079434299" />
+    <state width="1379" height="246" key="GridCell.Tab.0.right" timestamp="1612079434299">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1379" height="246" key="GridCell.Tab.0.right/0.25.1920.971@0.25.1920.971" timestamp="1612079434299" />
+  </component>
+</project>
